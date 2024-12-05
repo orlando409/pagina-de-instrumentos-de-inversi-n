@@ -30,4 +30,4 @@ proyecto/ │ ├── index.html # Archivo principal de la página ├── s
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/orlando409/guia-inversiones.git
-Abre el archivo index.html en tu navegador favorito.
+Abre el archivo index.html en tu navegador favorito
