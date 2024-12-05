@@ -1,6 +1,8 @@
 /* General */
 body {
-    font-family: Arial, sans-serif;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+  font-weight: 400;
+  font-style: normal;
     margin: 0;
     padding: 0;
     background-color: #f7f7f7;
